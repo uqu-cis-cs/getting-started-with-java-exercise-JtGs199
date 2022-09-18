@@ -1,4 +1,4 @@
-package edu.uqu.cs;
+
 
 /**
  * This a Maven based Java project.
